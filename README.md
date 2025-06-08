@@ -1,6 +1,18 @@
+
 ## Amazon-Sales-Project 
 ---
 This project analyzes Amazon sales data for the year 2025, focusing on various product categories including Electronics, Footwear, Clothing, Books, and Home Appliances from February to April 2025.
+
+[Project Overview](#project-overview)
+
+[Method and Tools](#method-and-tools)
+
+[Insights and Findings](#insights-and-findings)
+
+[Conclusion](#conclusion)
+
+[Recommendations](#recommendations)
+
 ### Project Overview
 ---
 The dataset includes transactional details such as order ID, date, product, category, price, quantity, total sales, customer information, payment method, and order status. The goal is to uncover sales trends, customer behavior, and operational insights to support decision-making.
@@ -22,7 +34,7 @@ Key fields include:
 
 - Data Visualization: Power BI was used to create interactive dashboards and visual reports to highlight key metrics such as total sales, order status distribution, and top-performing products.
 
-### Insight and Findings
+### Insights and Findings
 ---
 - Sales Trends: March 2025 recorded the highest sales volume and revenue compared to February and April, indicating a peak sales period.
 
@@ -40,7 +52,7 @@ Key fields include:
 --- 
 The analysis reveals that Electronics is the dominant category driving revenue, with March as a critical month for sales. However, the high rate of Pending and Cancelled orders points to operational challenges that could impact customer satisfaction and revenue realization. Payment method preferences and regional sales concentrations offer valuable insights for targeted marketing and inventory management.
 
-### Recommendation
+### Recommendations
 ---
 - Focus Marketing Efforts: Target high-performing cities with personalized promotions to capitalize on existing demand.
 
