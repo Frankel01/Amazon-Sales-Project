@@ -1,7 +1,6 @@
 SELECT * From amazon_sales_data
 
 --- What is the total sales per month?
-
 SELECT SUM(Total_Sales) as Total_Revenue
 from amazon_sales_data
 
@@ -36,7 +35,6 @@ SELECT Top 5
 amazon_sales_data.Product, COUNT(Quantity) AS Quantites
 From amazon_sales_data
 Group by amazon_sales_data.Product, Quantity;
-
 
 ----Which products have the highest return/cancellation rate?
 SELECT amazon_sales_data.Product, amazon_sales_data.Status, 
